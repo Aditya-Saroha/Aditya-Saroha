@@ -1,4 +1,4 @@
-<div><img width="100%" src="./assets/JollyRoger.png"/></div>
+<div  align="center"><img width="31%" src="./assets/JollyRoger.png"/></div>
 
 <h1 align="center">Yo! Nice to see you here.</h1>
 
