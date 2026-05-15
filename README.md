@@ -1,8 +1,6 @@
-<div  align="center"><img width="31%" src="./assets/JollyRoger.png"/></div>
+# Hey, I'm Aditya Saroha
 
-<h1 align="center">Yo! Nice to see you here.</h1>
+Aspiring Software Developer • React • Flutter 
+Exploring AI/ML & getting into open source
 
-<p align="center">
-  I'm Aditya Saroha, a dev and tech enthusiast from India 🇮🇳
-</p>
-
+Building things, breaking things, figuring it out.
