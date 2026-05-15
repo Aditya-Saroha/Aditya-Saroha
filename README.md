@@ -1,5 +1,3 @@
-# Hey, I'm Aditya Saroha
-
 Aspiring Software Developer • React • Flutter 
 Exploring AI/ML & getting into open source
 
